@@ -144,7 +144,7 @@
 
 }
 .my-photo:hover::before{
-    content: "Alex";
+    content: "Oleksandr";
     transition: all .5s;
  }
 .my-photo::before{
